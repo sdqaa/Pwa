@@ -1,0 +1,21 @@
+{
+  "name": "Sdqaa",
+  "short_name": "Sdqaa",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0a8cff",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/sdqaa/Pwa/refs/heads/main/file_00000000606471f4863aea6ba34b499a.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/sdqaa/Pwa/refs/heads/main/file_00000000606471f4863aea6ba34b499a.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
